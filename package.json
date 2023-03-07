@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abolkog/js-playground.git"
+    "url": "git+https://github.com/softleollc/js-playground.git"
   },
   "author": {
     "name": "Khalid Elshafie",
@@ -24,9 +24,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abolkog/js-playground/issues"
+    "url": "https://github.com/softleollc/js-playground/issues"
   },
-  "homepage": "https://github.com/abolkog/js-playground",
+  "homepage": "https://github.com/softleollc/js-playground",
   "browserslist": {
     "production": [
       ">0.2%",
